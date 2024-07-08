@@ -8,5 +8,5 @@
 
 ## Project
 ```
-Project - [Band Name Generator](https://replit.com/@KeyaBarua/Project-1-Band-Name-Generator)
+[Band Name Generator](https://replit.com/@KeyaBarua/Project-1-Band-Name-Generator)
 ```
