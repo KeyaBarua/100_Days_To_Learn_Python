@@ -8,7 +8,12 @@
 
 ## Project - Band Name Generator
 ```
-![Band-name-generator](https://github.com/KeyaBarua/100_Days_To_Learn_Python/assets/52108484/17fef77e-32ae-4663-91f6-1e39e55ae9d5)
+
+
+![Bandnamegenerator](https://github.com/KeyaBarua/100_Days_To_Learn_Python/assets/52108484/77dad1f2-4a72-4c23-9fa7-f0f2e8f8232f)
+
+
+
 
 ```
 
