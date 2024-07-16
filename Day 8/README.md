@@ -4,3 +4,7 @@
 3. Keyword Arguments
 
 ## Project - Caesar Cipher
+
+In cryptography, a Caesar cipher, also known as Caesar's cipher is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
+The project "Caesar Cipher" can take a message and encrypt or decrypt the message by shifting the alphabets by a number of positions.
+
