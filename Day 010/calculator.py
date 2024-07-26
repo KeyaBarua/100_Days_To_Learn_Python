@@ -19,18 +19,24 @@ def mul_numbers(number1, number2):
     return number1 * number2
 
 
-def  div_numbers(number1, number2):
+def div_numbers(number1, number2):
     """Returns the quotient of 2 numbers."""
     return number1 / number2
+
+
+def modulo_num(number1, number2):
+    """Returns the remainder of 2 numbers."""
+    return number1 % number2
 
 
 def calculator():
     """Produces the result of two numbers after performing the operation specified."""
     operations = {"+": add_numbers,
-                           "-" : sub_numbers,
-                           "*": mul_numbers,
-                           "/": div_numbers,
-                         }
+                  "-": sub_numbers,
+                  "*": mul_numbers,
+                  "/": div_numbers,
+                  "%": modulo_num
+                 }
 
     first_number = float(input("What's the first number?: "))
 
