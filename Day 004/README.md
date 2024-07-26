@@ -7,6 +7,8 @@
 5. IndexError
 
 ## Project - Rock, Paper, Scissor
+A rock, paper, scissor game, that we used to play as kids, is played between the user and the computer. The user can type 0 for rock, 1 for paper and 2 for scissor. 
+
 ![RPS1](https://github.com/KeyaBarua/100_Days_To_Learn_Python/assets/52108484/5b66f5a0-2ce6-44d0-ab48-42393e0ffb85)
 
 
