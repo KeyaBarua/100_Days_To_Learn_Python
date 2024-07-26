@@ -47,9 +47,7 @@ def calculator():
 
     print(f"{first_number} {oper_symbol} {next_number} = {result}")
 
-    to_continue = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation, "
-                            f"or type 'AC' to exit: "
-                            f"").lower()
+    to_continue = input(f"Type 'y' to continue calculating with {result}, or type 'n' to start a new calculation: ").lower()
     if to_continue == "y":
         # Making the first number equal to result to continue calculating with the previous result
         first_number = result
