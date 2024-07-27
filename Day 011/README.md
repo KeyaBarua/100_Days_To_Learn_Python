@@ -8,4 +8,4 @@ This is a capstone project built using all the tools learnt in Python till now. 
 5) If you are closer to 21 than the dealer (computer), you win. If your hand is less than the dealer’s, you lose. If the dealer’s hand “busts”, you win as well. If both dealer and you have same points, it is a draw.
 If your initial two cards total 21, any Ace with a 10, Jack, Queen, or King, you have a Blackjack.
 
-![Blackjack](https://github.com/user-attachments/assets/4b843736-fb98-4fdd-ab1d-9c6baab2a7d2)
+![Blackjack](https://github.com/user-attachments/assets/d6fab5d8-6da2-4425-bd55-6f8bc2591007)
