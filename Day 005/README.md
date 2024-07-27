@@ -4,4 +4,7 @@
 3. range() function
 
 ## Project - Password Generator
+
+The password generator generates a random password based on the number of letters, numbers and symbols.
+
 ![Passwordgenerator](https://github.com/user-attachments/assets/4edff606-e1d1-459d-9732-91a1c37630f5)
