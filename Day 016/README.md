@@ -11,3 +11,4 @@
 
 The project, completed on Day 15, is updated and done in OOP.
 
+![Coffeemachine](https://github.com/user-attachments/assets/6fe8adda-ccff-4f8d-ac07-5de68e8446dc)
